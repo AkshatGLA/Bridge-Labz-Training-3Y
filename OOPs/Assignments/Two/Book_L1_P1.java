@@ -1,4 +1,4 @@
-package Assignment.OOPs.Assignments.Two;
+package OOPs.Assignments.Two;
 
 /**
  * Level 1 Practice Program 1:
