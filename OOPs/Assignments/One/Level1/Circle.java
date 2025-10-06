@@ -1,4 +1,4 @@
-package Assignment.OOPs.Assignments.One.Level1;
+package OOPs.Assignments.One.Level1;
 
 // Program 2: Program to Compute Area of a Circle
 // Problem Statement: Write a program to create a Circle class with an attribute radius.

@@ -1,4 +1,4 @@
-package Assignment.OOPs.Assignments.One.Level1;
+package OOPs.Assignments.One.Level1;
 
 // Program 1: Program to Display Employee Details
 // Problem Statement: Write a program to create an Employee class with attributes name,

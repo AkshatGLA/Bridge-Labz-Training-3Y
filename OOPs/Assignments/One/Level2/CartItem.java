@@ -1,4 +1,4 @@
-package Assignment.OOPs.Assignments.One.Level2;
+package OOPs.Assignments.One.Level2;
 
 // Program 5: Program to Simulate a Shopping Cart
 // Problem Statement: Create a CartItem class with attributes itemName, price, and

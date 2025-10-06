@@ -1,4 +1,4 @@
-package Assignment.OOPs.Assignments.One.Level1;
+package OOPs.Assignments.One.Level1;
 
 // Program 3: Program to Handle Book Details
 // Problem Statement: Write a program to create a Book class with attributes title, author,

@@ -1,4 +1,4 @@
-package Assignment.OOPs.Assignments.One.Level2;
+package OOPs.Assignments.One.Level2;
 
 // Program 1: Program to Simulate Student Report
 // Problem Statement: Create a Student class with attributes name, rollNumber, and

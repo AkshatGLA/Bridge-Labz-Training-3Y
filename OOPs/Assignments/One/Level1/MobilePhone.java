@@ -1,4 +1,4 @@
-package Assignment.OOPs.Assignments.One.Level1;
+package OOPs.Assignments.One.Level1;
 
 // Program 5: Program to Handle Mobile Phone Details
 // Problem Statement: Create a MobilePhone class with attributes brand, model, and

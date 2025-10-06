@@ -1,4 +1,4 @@
-package Assignment.OOPs.Assignments.One.Level2;
+package OOPs.Assignments.One.Level2;
 
 // Program 4: Program to Model a Movie Ticket Booking System
 // Problem Statement: Create a MovieTicket class with attributes movieName,

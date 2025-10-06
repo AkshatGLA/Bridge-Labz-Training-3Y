@@ -1,4 +1,4 @@
-package Assignment.OOPs.Assignments.One.Level2;
+package OOPs.Assignments.One.Level2;
 
 // Program 2: Program to Simulate an ATM
 // Problem Statement: Create a BankAccount class with attributes accountHolder,

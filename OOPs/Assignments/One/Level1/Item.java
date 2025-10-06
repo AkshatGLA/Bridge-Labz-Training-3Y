@@ -1,4 +1,4 @@
-package Assignment.OOPs.Assignments.One.Level1;
+package OOPs.Assignments.One.Level1;
 
 // Program 4: Program to Track Inventory of Items
 // Problem Statement: Create an Item class with attributes itemCode, itemName, and

@@ -1,4 +1,4 @@
-package Assignment.OOPs.Assignments.One.Level2;
+package OOPs.Assignments.One.Level2;
 
 // Program 3: Program to Check Palindrome String
 // Problem Statement: Create a PalindromeChecker class with an attribute text. Add
